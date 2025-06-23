@@ -1,6 +1,6 @@
 backend:
   name: github              # use GitHub OAuth, no Netlify Identity
-  repo: YOURUSER/eebnaturupplevelser
+  repo: fredrikbromee/eebnaturupplevelser
   branch: main
 media_folder: "src/images"
 public_folder: "/images"
