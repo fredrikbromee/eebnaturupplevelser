@@ -5,6 +5,15 @@ backend:
 media_folder: "src/images"
 public_folder: "/images"
 collections:
+  - name: pages
+    label: "Pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "src/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - name: posts
     label: Posts
     folder: "src/posts"
