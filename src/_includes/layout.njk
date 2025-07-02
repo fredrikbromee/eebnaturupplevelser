@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">EEB Naturupplevelser</div>
+            <ul>
+                <li><a href="/">Hem</a></li>
+                <li><a href="/#e-foil">E-foil</a></li>
+                <li><a href="/#wing-foil">Wing foil</a></li>
+                <li><a href="/#kajak">Kajak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {{ content | safe }}
+    </main>
+
+    <footer>
+        <p>EEB Naturupplevelser</p>
+        <p>Kontakt: Erik å harald, lägg in era nummer här 070-123 45 67</p>
+    </footer>
+</body>
+</html> 
