@@ -163,4 +163,102 @@ footer {
 
 footer p {
     margin: 0;
+}
+
+/* Responsive Navigation Styles */
+.hamburger-menu {
+    display: none; /* Hidden by default */
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 1001; /* Above the overlay */
+}
+
+.hamburger-menu span {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background-color: #333;
+    margin: 5px 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.hamburger-menu.active span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.hamburger-menu.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger-menu.active span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -6px);
+}
+
+.mobile-nav {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.98);
+    z-index: 1000;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.mobile-nav.active {
+    display: flex;
+}
+
+.mobile-nav a {
+    text-decoration: none;
+    color: #333;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 768px) {
+    /* 1. Mobile Navigation */
+    .desktop-nav {
+        display: none;
+    }
+
+    .hamburger-menu {
+        display: block;
+    }
+
+    /* 2. Hero Video */
+    .hero-video {
+        height: 50vh; /* Shorter height on mobile */
+    }
+
+    .hero-overlay h1 {
+        font-size: 2.5rem; /* Smaller text on mobile */
+    }
+
+    .hero-overlay p {
+        font-size: 1.2rem;
+    }
+
+    /* 3. Content Boxes */
+    .content-box,
+    .content-box.reverse {
+        flex-direction: column; /* Stack vertically */
+    }
+
+    .content-box img {
+        width: 100%; /* Image takes full width */
+        aspect-ratio: 1.5; /* Wider aspect ratio for mobile images */
+    }
+
+    /* 4. Layout & Spacing */
+    main {
+        padding: 1rem; /* Tighter padding */
+    }
 } 

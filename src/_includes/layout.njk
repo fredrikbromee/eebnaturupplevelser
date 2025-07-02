@@ -10,14 +10,26 @@
     <header>
         <nav>
             <div class="logo">EEB Naturupplevelser</div>
-            <ul>
+            <ul class="desktop-nav">
                 <li><a href="/">Hem</a></li>
                 <li><a href="/#e-foil">E-foil</a></li>
                 <li><a href="/#wing-foil">Wing foil</a></li>
                 <li><a href="/#kajak">Kajak</a></li>
             </ul>
+            <button class="hamburger-menu" aria-label="Open navigation menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
         </nav>
     </header>
+
+    <div class="mobile-nav">
+        <a href="/">Hem</a>
+        <a href="/#e-foil">E-foil</a>
+        <a href="/#wing-foil">Wing foil</a>
+        <a href="/#kajak">Kajak</a>
+    </div>
 
     <main>
         {{ content | safe }}
@@ -25,7 +37,25 @@
 
     <footer>
         <p>EEB Naturupplevelser</p>
-        <p>Kontakt: Erik å harald, lägg in era nummer här 070-123 45 67</p>
+        <p>Kontakt: info@eebnatur.se | 070-123 45 67</p>
     </footer>
+
+    <script>
+        const hamburger = document.querySelector('.hamburger-menu');
+        const mobileNav = document.querySelector('.mobile-nav');
+
+        hamburger.addEventListener('click', () => {
+            hamburger.classList.toggle('active');
+            mobileNav.classList.toggle('active');
+        });
+
+        // Close menu when a link is clicked
+        document.querySelectorAll('.mobile-nav a').forEach(link => {
+            link.addEventListener('click', () => {
+                hamburger.classList.remove('active');
+                mobileNav.classList.remove('active');
+            });
+        });
+    </script>
 </body>
 </html> 
