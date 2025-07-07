@@ -30,9 +30,7 @@ Vill du komma vidare i din wingfoil? Boka en privatlektion med oss!
 
 ### Hyr kajak eller SUP
 
-Hyr kajak eller SUP bla bla lägg in länk till kayakomat
-
-<https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a>
+Hyr kajak eller SUP här [kayakomat](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)[](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)
 {% endcontentBox %}
 {% endcontentGrid %}
 
