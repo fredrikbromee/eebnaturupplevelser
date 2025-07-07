@@ -18,13 +18,14 @@ layout: layout.njk
 
 ### E-foil
 
-Lär dig grunderna i eFoil med våra kvalificerade instruktörer. Inga förkunskaper krävs!
+Vill du prova något nytt på vattnet? Lär dig grunderna med våra kvalificerade instruktörer. Inga förkunskaper krävs! Våra instruktörer är alltid med under hela passet och hjälper dig steg för steg. Vi går igenom all utrustning och säkerhet innan du ger dig ut på vattnet.
 
-boka idag!
+📍 Uppsala
 
-0703496331
+⌚ 60-120 minuter
 
-info@eebnatur.se
+✔️ All utrustning tillkommer
+
 
 {% endcontentBox %}
 {% contentBox "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=500&h=300&fit=crop", "eFoil utrustning", true, "wing-foil" %}
@@ -33,14 +34,21 @@ info@eebnatur.se
 
 Vill du komma vidare i din wingfoil? Boka en privatlektion med oss!
 {% endcontentBox %}
-{% contentBox "IMG_6019.HEIC", "eFoil i solnedgången", false, "kajak" %}
+{% contentBox "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=500&h=300&fit=crop", "eFoil i solnedgången", false, "kajak" %}
 
 ### Hyr kajak eller SUP
 
+
+
 Hyr SUP och kajak i Uppsala. Att paddla kajak med vänner och familj här är en fridfull upplevelse som passar dig som vill testa kajakpaddling som nybörjare. Paddla lugnt och stilla längs Fyrisån upp till Stadsparken, eller ta en längre tur till Ekoln och tillbaka för ett riktigt träningspass för mer erfarna paddlare. Att se Årike Fyris från vattnet är ett utmärkt alternativ till att hyra cykel eller promenera. Tack vare det obemannade konceptet KAYAKOMAT är kajak- och SUP-hyra smidigt, billigt och alltid tillgängligt. [Klicka här för att boka.](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)
+
+
 
 [](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)[](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)
 {% endcontentBox %}
 {% endcontentGrid %}
 
-korta stycken med en ikon framför, tex (pin emoji) Uppsala. (klocka emoji) 60-120 min
+korta stycken med en ikon framför, tex (pin emoji)
+📍
+
+ Uppsala. (klocka emoji) 60-120 min
