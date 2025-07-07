@@ -30,7 +30,13 @@ Vill du komma vidare i din wingfoil? Boka en privatlektion med oss!
 
 ### Hyr kajak eller SUP
 
-Hyr kajak eller SUP här [kayakomat](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)[](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)
+
+
+Hyr SUP och kajak i Hospitalsträdgården. Att paddla kajak med vänner och familj här är en fridfull upplevelse som passar dig som vill testa kajakpaddling som nybörjare. Paddla lugnt och stilla längs Fyrisån upp till Stadsparken, eller ta en längre tur till Ekoln och tillbaka för ett riktigt träningspass för mer erfarna paddlare. Att se Årike Fyris från vattnet är ett utmärkt alternativ till att hyra cykel eller promenera. Tack vare det obemannade konceptet KAYAKOMAT är kajak- och SUP-hyra smidigt, billigt och alltid tillgängligt. [Klicka här för att boka.](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)
+
+
+
+[](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)[](https://www.kayakomat.com/sv/location/641da9fb1d88cd78d7a41b7a)
 {% endcontentBox %}
 {% endcontentGrid %}
 
