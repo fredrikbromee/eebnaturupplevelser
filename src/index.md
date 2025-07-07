@@ -40,4 +40,7 @@ Hyr SUP och kajak i Uppsala. Att paddla kajak med vänner och familj här är en
 {% endcontentBox %}
 {% endcontentGrid %}
 
-korta stycken med en ikon framför, tex (pin emoji) Uppsala. (klocka emoji) 60-120 min
+korta stycken med en ikon framför, tex (pin emoji)
+📍
+
+ Uppsala. (klocka emoji) 60-120 min
