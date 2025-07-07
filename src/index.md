@@ -24,7 +24,9 @@ Vill du prova något nytt på vattnet? Lär dig grunderna med våra kvalificerad
 
 ⌚ 60-120 minuter
 
-✔️ All utrustning tillkommer
+✔️ All utrustning tillhandahålls
+
+🗣️ Kursen ges ut i både engelska och svenska
 
 
 {% endcontentBox %}
