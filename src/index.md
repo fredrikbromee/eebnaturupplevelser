@@ -15,9 +15,10 @@ layout: layout.njk
 
 {% contentGrid %}
 {% contentBox "/images/IMG_2650.jpg", "eFoil på vattnet", false, "e-foil" %}
+
 ### E-foil
 
-Vill du prova något nytt på vattnet? Lär dig grunderna med våra kvalificerade instruktörer. Inga förkunskaper krävs! Våra instruktörer är alltid med under hela passet och hjälper dig steg för steg. Vi går igenom all utrustning och säkerhet innan du ger dig ut på vattnet.
+Vill du prova något nytt på vattnet? Lär dig grunderna med våra kvalificerade instruktörer. Inga förkunskaper krävs! instruktörerna är med under hela passet och hjälper dig steg för steg. vi anpassar kursen utefter elevens erfarenhet för att du ska få ut det mesta av din tid på vattnet
 
 📍 Uppsala
 
@@ -26,7 +27,6 @@ Vill du prova något nytt på vattnet? Lär dig grunderna med våra kvalificerad
 ✔️ All utrustning tillhandahålls
 
 🗣️ Kursen ges ut i både engelska och svenska
-
 
 {% endcontentBox %}
 {% contentBox "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=500&h=300&fit=crop", "eFoil utrustning", true, "wing-foil" %}
