@@ -20,6 +20,11 @@ layout: layout.njk
 
 Lär dig grunderna i eFoil med våra kvalificerade instruktörer. Inga förkunskaper krävs!
 
+boka idag!
+
+0703496331
+
+info@eebnatur.se
 
 {% endcontentBox %}
 {% contentBox "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=500&h=300&fit=crop", "eFoil utrustning", true, "wing-foil" %}
