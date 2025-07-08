@@ -103,9 +103,7 @@ nav ul li a:hover {
 
 /* Main Content Styles */
 main {
-    padding: 2rem;
-    max-width: 1200px;
-    margin: 0 auto;
+    padding: 2rem 0;
 }
 
 .content-grid {
@@ -138,7 +136,7 @@ main {
 
 .content-box img {
     width: 50%;
-    aspect-ratio: 1;
+    aspect-ratio: 1.5;
     object-fit: cover;
     flex-shrink: 0;
 }
@@ -254,7 +252,7 @@ footer p {
 
     .content-box img {
         width: 100%; /* Image takes full width */
-        aspect-ratio: 1.5; /* Wider aspect ratio for mobile images */
+        aspect-ratio: 1.5; /* Consistent landscape aspect ratio */
     }
 
     /* 4. Layout & Spacing */
