@@ -35,10 +35,7 @@ Vill du prova något nytt på vattnet? Lär dig grunderna med våra kvalificerad
 
 Vill du komma vidare i din wingfoil? Boka en privatlektion med oss!
 {% endcontentBox %}
-
-
-
-{% contentBox "/images/kayakomat_bild.jpg", "eFoil i solnedgången", false, "kajak" %}
+{% contentBox "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=500&h=300&fit=crop", "eFoil i solnedgången", false, "kajak" %}
 
 ### Hyr kajak eller SUP
 
@@ -46,7 +43,5 @@ Hyr SUP och kajak i Uppsala. Att paddla kajak med vänner och familj här är en
 {% endcontentBox %}
 {% endcontentGrid %}
 
-korta stycken med en ikon framför, tex (pin emoji)
-📍
 
- Uppsala. (klocka emoji) 60-120 min
+📍
